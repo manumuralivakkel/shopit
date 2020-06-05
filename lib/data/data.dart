@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../models/product.dart';
+import '../providers/product.dart';
 
 var  DUMMY_PRODUCTS =  [
   Product(
